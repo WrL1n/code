@@ -1,0 +1,17 @@
+Lint/DuplicateMethods:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Style/BlockComments:
+  Enabled: false
+
+Naming/UncommunicativeMethodParamName:
+  MinNameLength: 1
+
+Naming/FileName:
+  Enabled: false
+
+Naming/MethodName:
+  Enabled: false
