@@ -110,6 +110,9 @@
 * [16+18=214](7KYU/16_18_214.js) - [CodeWars](https://www.codewars.com/kata/5effa412233ac3002a9e471d)
 * [How many are smaller than me?](7KYU/How_many_are_smaller_than_me.js) - [CodeWars](https://www.codewars.com/kata/56a1c074f87bc2201200002e)
 * [A Promise is a Promise](7KYU/A_Promise_is_a_Promise.js) - [CodeWars](https://www.codewars.com/kata/5b61d6ef07a266d40b000097)
+* [Filter Long Words](7KYU/Filter_long_words.js) - [CodeWars](https://www.codewars.com/kata/5697fb83f41965761f000052)
+* [Substring fun](7KYU/Substring_fun.js) - [CodeWars](https://www.codewars.com/kata/65b112d09c1adfdd500019c)
+* [Case swapping](7KYU/Case_swapping.js) - [CodeWars](https://www.codewars.com/kata/5590961e6620c0825000008f)
 
 <!-- template -->
 <!-- * [Name](7KYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
