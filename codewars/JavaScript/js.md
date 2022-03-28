@@ -165,6 +165,7 @@
 * [Fold an array](6KYU/Fold_an_array.js) - [CodeWars](https://www.codewars.com/kata/57ea70aa5500adfe8a000110)
 * [Sum of Digits / Digital Root](6KYU/s_o_d.js) - [CodeWars](https://www.codewars.com/kata/541c8630095125aba6000c00)
 * [Promises Made and Broken](6KYU/Promises_Made_and_Broken.js) - [CodeWars](https://www.codewars.com/kata/587593285448632b8d000143)
+* [Create Phone Number](6KYU/Create_Phone_Number.js) - [CodeWars](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 
 <!-- template -->
 <!-- * [Name](6KYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
