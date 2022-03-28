@@ -6,7 +6,7 @@
 <!-- * [Name](xKYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
 
-### <a name="8KYU">8 KYU</a>
+### <a name="8KYU">![8 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/8KYU.png?raw=true)</a>
 * [Well of Ideas](8KYU/Well_of_ideas.js) - [CodeWars](https://www.codewars.com/kata/57f222ce69e09c3630000212)
 * [Do you speak "English?](8KYU/Do_you_speak_English.js) - [CodeWars](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
 * [A Needle in the Haystack](8KYU/A_Needle_in_the_Haystack.js) - [CodeWars](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
@@ -166,7 +166,7 @@
 <!-- template -->
 <!-- * [Name](6KYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
-### <a name="5KYU">5 KYU</a>
+### <a name="5KYU">![5 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/5KYU.png?raw=true)</a>
 * [Extract the domain name from a URL](5KYU/Extract_the_domain_name_from_a_URL.js) - [CodeWars](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 * [Maximum subarray sum](5KYU/Maximum_subarray_sum.js) - [CodeWars](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 * [Human Readable Time](5KYU/Human_Readable_Time.js) - [CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
