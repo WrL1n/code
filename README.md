@@ -1,1 +1,3 @@
-layout is in progress, wait for it 
+##  [Codewars](codewars/README.md)
+
+##  [adventOfCode](adventOfCode/README.md)
