@@ -1,4 +1,4 @@
-# [![CodeWars](https://github.com/MrLinQQ/codewars/blob/master/image/javascript.png)]() JavaScript
+# [![CodeWars](https://github.com/WrL1n/code/blob/main/codewars/image/javascript.png?raw=true)]() JavaScript
 
 [8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [BETA](#BETA) | [Translations](#TRAN) | [Authored](#AUTH)
 
