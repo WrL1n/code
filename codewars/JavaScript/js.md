@@ -51,7 +51,8 @@
 <!-- template -->
 <!-- * [Name](8KYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
-### <a name="7KYU">7 KYU</a>
+---
+### <a name="7KYU">![7 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/7KYU.png?raw=true)</a>
 * [Sum of odd numbers](7KYU/Sum_of_odd_numbers.js) - [CodeWars](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 * [Growth of a Population](7KYU/Growth_of_a_Population.js) - [CodeWars](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 * [Greatest common divisor](7KYU/Greatest_common_divisor.js) - [CodeWars](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
@@ -117,7 +118,8 @@
 <!-- template -->
 <!-- * [Name](7KYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
-### <a name="6KYU">6 KYU</a>
+---
+### <a name="6KYU">![6 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/6KYU.png?raw=true)</a>
 * [Find the missing term in an Arithmetic Progression](6KYU/Find_the_missing_term_in_an_Arithmetic_Progression.js) - [CodeWars](https://www.codewars.com/kata/52de553ebb55d1fca3000371)
 * [Find the odd int](6KYU/Find_the_odd_int.js) - [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Unique In Order](6KYU/Unique_In_Order.js) - [CodeWars](https://www.codewars.com/kata/54e6533c92449cc251001667)
@@ -166,6 +168,7 @@
 <!-- template -->
 <!-- * [Name](6KYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
+---
 ### <a name="5KYU">![5 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/5KYU.png?raw=true)</a>
 * [Extract the domain name from a URL](5KYU/Extract_the_domain_name_from_a_URL.js) - [CodeWars](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 * [Maximum subarray sum](5KYU/Maximum_subarray_sum.js) - [CodeWars](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
@@ -183,7 +186,8 @@
 <!-- template -->
 <!-- * [Name](5KYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
-### <a name="4KYU">4 KYU</a>
+---
+### <a name="4KYU">![4 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/4KYU.png?raw=true)</a>
 * [Sum of Intervals](4KYU/Sum_of_Intervals.js) - [CodeWars](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 * [Square into Squares. Protect trees!](4KYU/Square_into_Squares_Protect_trees.js) - [CodeWars](https://www.codewars.com/kata/54eb33e5bc1a25440d000891)
 * [Strip Comments](4KYU/Strip_Comments.js) - [CodeWars](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
@@ -195,6 +199,7 @@
 <!-- template -->
 <!-- * [Name](4KYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
+---
 ### <a name="3KYU">3 KYU</a>
 * [The soul of wit: reverse an array](3KYU/The_soul_of_wit_reverse_an_array.js) - [CodeWars](https://www.codewars.com/kata/59b81886460387d8fc000043)
 

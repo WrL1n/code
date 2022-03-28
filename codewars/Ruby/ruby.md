@@ -5,7 +5,7 @@
 <!-- template -->
 <!-- * [Name](xKYU/Name.rb) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
-### <a name="8KYU">8 KYU</a>
+### <a name="8KYU">![8 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/8KYU.png?raw=true)</a>
 * [Multiply](8KYU/Multiply.rb) - [CodeWars](https://www.codewars.com/kata/50654ddff44f800200000004)
 * [Count of positives / sum of negatives](8KYU/CountPosNeg.rb) - [CodeWars](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 * [Do I get a bonus?](8KYU/Do_I_get_a_bonus.rb) - [CodeWars](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
@@ -36,7 +36,8 @@
 <!-- template -->
 <!-- * [Name](8KYU/Name.rb) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
-### <a name="7KYU">7 KYU</a>
+---
+### <a name="7KYU">![7 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/7KYU.png?raw=true)</a>
 * [List Filtering](7KYU/List_Filtering.rb) - [CodeWars](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 * [Mumbling](7KYU/Mumbling.rb) - [CodeWars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 * [Letterbox Paint-Squad](7KYU/Letterbox_Paint-Squad.rb) - [CodeWars](https://www.codewars.com/kata/597d75744f4190857a00008d)
@@ -71,7 +72,8 @@
 <!-- template -->
 <!-- * [Name](7KYU/Name.rb) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
-### <a name="6KYU">6 KYU</a>
+---
+### <a name="6KYU">![6 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/6KYU.png?raw=true)</a>
 * [Persistent Bugger](6KYU/Persistent_Bugger.rb) - [CodeWars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 * [Find The Parity Outlier](6KYU/Find_The_Parity_Outlier.rb) - [CodeWars](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 * [Take a Ten Minute Walk](6KYU/Take_a_Ten_Minute_Walk.rb) - [CodeWars](https://www.codewars.com/kata/54da539698b8a2ad76000228)
@@ -100,7 +102,8 @@
 <!-- template -->
 <!-- * [Name](6KYU/Name.rb) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
-### <a name="5KYU">5 KYU</a>
+---
+### <a name="5KYU">![5 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/5KYU.png?raw=true)</a>
 * [Sum of Pairs](5KYU/Sum_of_Pairs.rb) - [CodeWars](https://www.codewars.com/kata/54d81488b981293527000c8f)
 * [The Hashtag Generator](5KYU/Hashtag_generator.rb) - [CodeWars](https://www.codewars.com/kata/the-hashtag-generator)
 * [Rot13](5KYU/Rot13.rb) - [CodeWars](https://www.codewars.com/kata/530e15517bc88ac656000716)
@@ -109,7 +112,8 @@
 <!-- template -->
 <!-- * [Name](5KYU/Name.rb) - [CodeWars](https://www.codewars.com/kata/xx) -->
 <!-- template -->
-### <a name="4KYU">4 KYU</a>
+---
+### <a name="4KYU">![4 KYU](https://github.com/WrL1n/code/blob/main/codewars/image/4KYU.png?raw=true)</a>
 * [Snail](4KYU/Snail.rb) - [CodeWars](https://www.codewars.com/kata/snail)
 * [Number of Proper Fractions with Denominator d](4KYU/Num_Proper_Fractions.rb) - [CodeWars](https://www.codewars.com/kata/number-of-proper-fractions-with-denominator-d)
 * [The Greatest Warrior](4KYU/The_greatest_warrior.rb) - [CodeWars](https://www.codewars.com/kata/5941c545f5c394fef900000c)
