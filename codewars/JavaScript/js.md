@@ -114,6 +114,7 @@
 * [Filter Long Words](7KYU/Filter_long_words.js) - [CodeWars](https://www.codewars.com/kata/5697fb83f41965761f000052)
 * [Substring fun](7KYU/Substring_fun.js) - [CodeWars](https://www.codewars.com/kata/65b112d09c1adfdd500019c)
 * [Case swapping](7KYU/Case_swapping.js) - [CodeWars](https://www.codewars.com/kata/5590961e6620c0825000008f)
+* [Closure Counter](7KYU/Closure_Counter.js) - [CodeWars](https://www.codewars.com/kata/60edafd71dad1800563cf933)
 
 <!-- template -->
 <!-- * [Name](7KYU/Name.js) - [CodeWars](https://www.codewars.com/kata/xx) -->
