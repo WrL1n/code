@@ -1,0 +1,3 @@
+# sql-ex
+
+##  [exercises](exercises/.)
