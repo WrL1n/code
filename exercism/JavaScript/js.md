@@ -1,3 +1,3 @@
-# [![JavaScript](../images/javascript.svg)]()
+<!-- # [![JavaScript](../images/javascript.svg)]() -->
 
-* [Scrabble Score](ScrabbleScore.js) - [Exercism](https://#)
+* [Scrabble Score](ScrabbleScore.js)
