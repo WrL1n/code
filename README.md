@@ -1,5 +1,7 @@
 ##  [Codewars](codewars/README.md)
 
-##  [adventOfCode](adventOfCode/README.md)
+##  [Exercism](exercism/README.md)
 
-##  [sql-ex](sql-ex/README.md)
+##  [AdventOfCode](adventOfCode/README.md)
+
+##  [Sql-ex](sql-ex/README.md)
